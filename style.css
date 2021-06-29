@@ -1,0 +1,46 @@
+body{
+     color: pink;
+     background: #e71376;
+}
+
+span
+{
+  font-size: 35px;
+}
+#camera , #result
+{
+  border: 2px dashed black;
+  width: 350px;
+  height: 300px; 
+  
+}
+#result_hand_gesture_name_1 ,#result_hand_gesture_name_2  
+{
+  color: black;
+}
+.hand_gesture_name
+{
+  font-size: 40px;
+}
+.hand_gesture
+{
+  font-size:48px;
+}
+
+.heading{
+  font-size: 20px;
+  border-radius: 10px;
+  letter-spacing: 6px;
+}
+
+label
+{
+  font-size: 14px;
+  color: #62b33a;
+  padding: 6px;
+  border-radius: 10px;
+  background-color: white;
+}
+
+
+
